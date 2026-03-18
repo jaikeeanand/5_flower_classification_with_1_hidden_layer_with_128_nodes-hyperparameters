@@ -1,3 +1,6 @@
-path/to/flower_image1.jpg,label1
-path/to/flower_image2.jpg,label2
-path/to/flower_image3.jpg,label3
+image_path,label
+/path/to/lotus,image_name_1,Lotus
+/path/to/sunflower,image_name_2,Sunflower
+/path/to/lilly,image_name_3,Lilly
+/path/to/tulip,image_name_4,Tulip
+/path/to/orchid,image_name_5,Orchid
