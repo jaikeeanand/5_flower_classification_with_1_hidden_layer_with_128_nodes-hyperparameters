@@ -1,3 +1,6 @@
-path/to/image1, label1
-path/to/image2, label2
-path/to/image3, label3
+image_path,label
+/path/to/image1.jpg,Lotus
+/path/to/image2.jpg,Sunflower
+/path/to/image3.jpg,Lilly
+/path/to/image4.jpg,Orchid
+/path/to/image5.jpg,Tulip
