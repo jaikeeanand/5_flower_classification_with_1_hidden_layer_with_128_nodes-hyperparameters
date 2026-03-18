@@ -1,0 +1,11 @@
+image_path,flower_label
+/path/to/lotus/image1.jpg,Lotus
+/path/to/lotus/image2.jpg,Lotus
+/path/to/tulip/image1.jpg,Tulip
+/path/to/sunflower/image1.jpg,Sunflower
+/path/to/lilly/image1.jpg,Lilly
+/path/to/orchid/image1.jpg,Orchid
+/path/to/tulip/image2.jpg,Tulip
+/path/to/sunflower/image2.jpg,Sunflower
+/path/to/lilly/image2.jpg,Lilly
+/path/to/orchid/image2.jpg,Orchid
