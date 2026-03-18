@@ -1,0 +1,2 @@
+# 5_flower_classification_with_1_hidden_layer_with_128_nodes-hyperparameters
+5_flower_classification_with_1_hidden_layer_with_128_nodes+hyperparameters(batch sizes, image sizes, learning rates, hidden nodes, epoch)
